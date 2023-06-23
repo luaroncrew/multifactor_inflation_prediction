@@ -1,8 +1,4 @@
-Période;Prix au détail du gaz TTC toutes tes;Prix au détail du gaz TTC tranche D1;Prix au détail du gaz TTC tranche D2;Prix au détail du gaz TTC tranche D3
-PERIODE;PX_GAZ_D_TTES_TRANCHES;PX_GAZ_D_D1;PX_GAZ_D_D2;PX_GAZ_D_D3
-2023-05;;;;
-2023-04;;;;
-2023-03;;;;
+period;gas_price;PX_GAZ_D_D1;PX_GAZ_D_D2;PX_GAZ_D_D3
 2023-02;;;;
 2023-01;;;;
 2022-12;10.5432;16.2949;10.0822;8.7065

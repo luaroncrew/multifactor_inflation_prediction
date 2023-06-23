@@ -9,4 +9,7 @@ Insee
 Insee
 - Nombre de nuitées:
 Insee
-- 
+- CAC40:
+Yahoo finance
+- Dette publique:
+Insee
