@@ -1,7 +1,4 @@
-"Label";"Monthly average consumer prices in metropolitan France - Baguette (1 kg)";"Codes"
-"idBank";"000442423";""
-"Last update";"12/05/2023 08:45";""
-"Period";"";""
+"period";"baguette_price";"Codes"
 "2023-04";"4.01";"A"
 "2023-03";"4.0";"A"
 "2023-02";"3.96";"A"
