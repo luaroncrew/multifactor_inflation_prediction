@@ -13,3 +13,5 @@ Insee
 Yahoo finance
 - Dette publique:
 Insee
+- Inflation:
+Ycharts

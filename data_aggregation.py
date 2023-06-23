@@ -107,4 +107,8 @@ merged_df = merged_df.merge(dette, on='period')
 unemployment = pd.read_csv('datasets/chomage.csv', delimiter=';')
 
 merged_df = merged_df.merge(unemployment, on='period')
-print(merged_df.shape)
+
+inflation = pd.read_csv('datasets/inflation.csv')
+merged_df = merged_df.merge(inflation, on='period')
+
+merged_df.to_csv('big_inflation_dataset.csv')
